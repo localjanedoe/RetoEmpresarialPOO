@@ -21,7 +21,7 @@ namespace Trabajo
 
         }
 
-        public static void generarReporteIngresos()
+        public static void GenerarReporteIngresos()
         {
 
         }
