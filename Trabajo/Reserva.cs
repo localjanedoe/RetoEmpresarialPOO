@@ -8,23 +8,25 @@ namespace Trabajo
     {
         public int idReserva;
         public string fechaEntrada;
-        public string fechaSalida;
         public int numNoches;
         public bool estado;
-        public static List<int> Servicios;
+        public List<Servicios> Servicios = new List <Servicios> ();
+        public Habitacion habitacion;
+        public Cliente cliente;
         
         
-        public static void CalcularCosto()
+        public double CalcularCosto()
+        {
+            if (habitacion == null) return 0;
+            double costoBase = habitacion.precioPorNoche * numNoches;
+        }
+
+        public void Cancelar()
         {
 
         }
 
-        public static void Cancelar()
-        {
-
-        }
-
-        public static void Modificar()
+        public void Modificar()
         {
 
         }
