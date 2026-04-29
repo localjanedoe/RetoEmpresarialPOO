@@ -15,6 +15,7 @@ namespace Trabajo
 
         public static void RegistrarReservaPresencial()
         {
+            Console.WriteLine("Ingrese el nombre y el ID del cliente");
 
         }
 

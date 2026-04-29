@@ -9,37 +9,30 @@ namespace Trabajo
         public string numero;
         public string tipo;
         public double precioPorNoche;
+        public bool Disponible;
 
-        public static Dictionary<string, int> HabitacionSimple()
+        public Habitacion(string numero, string tipo, double precioPorNoche, bool Disponible)
         {
-            return new Dictionary<string, int>()
-            {
-               {"Simple", 1}
-            };
-        }
-
-
-        public static Dictionary<string, int> HabitacionDoble()
-        {
-            return new Dictionary<string, int>()
-            {
-               {"Doble", 2}
-            };
-        }
-
-        public static Dictionary<string, int> HabitacionMatrimonial()
-        {
-            return new Dictionary<string, int>()
-            {
-               {"atrimonial", 3}
-            };
-        }
-
-
-
-        public static void EstaDisponible()
-        {
+            this.numero = numero; 
+            this.tipo = tipo;
+            this.precioPorNoche = precioPorNoche;
+            this.Disponible = Disponible;
             
+        }
+
+        public static void EstaDisponible(bool Disponible)
+        {
+            Console.WriteLine();
+
+            if (Disponible == true)
+            {
+                Cliente.RealizarReservaWeb();
+            }
+            else
+            {
+                Console.WriteLine("La habitación se encuentra ocupada.");
+                Console.ReadKey();
+            }
         }
 
         public static void ActualizarEstado()
@@ -47,9 +40,9 @@ namespace Trabajo
 
         }
 
-        public static void CalcularCosto(double precio)
+        public void CalcularCosto(double precio)
         {
-
+            
         }
 
         public static void VerDescripcion(string descripcion)

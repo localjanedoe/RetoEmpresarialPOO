@@ -8,6 +8,7 @@ namespace Trabajo
     {
         public int idReserva;
         public string fechaEntrada;
+        public string fechaSalida;
         public int numNoches;
         public bool estado;
         public static List<int> Servicios;

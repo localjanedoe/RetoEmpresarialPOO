@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{078D90E7-D864-43EF-985E-C34478D82624}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{078D90E7-D864-43EF-985E-C34478D82624}|Trabajo.csproj|solutionrelative:reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{078D90E7-D864-43EF-985E-C34478D82624}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{078D90E7-D864-43EF-985E-C34478D82624}|Trabajo.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{078D90E7-D864-43EF-985E-C34478D82624}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{078D90E7-D864-43EF-985E-C34478D82624}|Trabajo.csproj|solutionrelative:habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{078D90E7-D864-43EF-985E-C34478D82624}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{078D90E7-D864-43EF-985E-C34478D82624}|Trabajo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{078D90E7-D864-43EF-985E-C34478D82624}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{078D90E7-D864-43EF-985E-C34478D82624}|Trabajo.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{078D90E7-D864-43EF-985E-C34478D82624}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{078D90E7-D864-43EF-985E-C34478D82624}|Trabajo.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarial\\trabajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,50 +46,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Reserva.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Reserva.cs",
-              "RelativeDocumentMoniker": "Reserva.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Reserva.cs",
-              "RelativeToolTip": "Reserva.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T23:44:58.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T23:33:08.607Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Administrador.cs",
-              "RelativeDocumentMoniker": "Administrador.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Administrador.cs",
-              "RelativeToolTip": "Administrador.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Reporte.cs",
+              "RelativeDocumentMoniker": "Reporte.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Reporte.cs",
+              "RelativeToolTip": "Reporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T23:35:40.924Z",
+              "WhenOpened": "2026-04-21T23:47:33.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Servicios.cs",
+              "RelativeDocumentMoniker": "Servicios.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Servicios.cs",
+              "RelativeToolTip": "Servicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T23:46:23.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personal.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Personal.cs",
+              "RelativeDocumentMoniker": "Personal.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Personal.cs",
+              "RelativeToolTip": "Personal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T23:31:29.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Habitacion.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Habitacion.cs",
               "RelativeDocumentMoniker": "Habitacion.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Habitacion.cs",
               "RelativeToolTip": "Habitacion.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAjwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T23:34:39.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Reserva.cs",
+              "RelativeDocumentMoniker": "Reserva.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Reserva.cs",
+              "RelativeToolTip": "Reserva.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T23:44:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Administrador.cs",
+              "RelativeDocumentMoniker": "Administrador.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Administrador.cs",
+              "RelativeToolTip": "Administrador.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T23:35:40.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Cliente.cs",
               "RelativeDocumentMoniker": "Cliente.cs",
@@ -90,28 +154,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Usuario.cs",
               "RelativeDocumentMoniker": "Usuario.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Usuario.cs",
               "RelativeToolTip": "Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T23:33:50.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T23:33:08.607Z",
               "EditorCaption": ""
             }
           ]

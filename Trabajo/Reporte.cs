@@ -6,8 +6,7 @@ namespace Trabajo
 {
     internal class Reporte
     {
-        public string fechaInicio;
-        public string fechaFin;
+        
 
 
     }

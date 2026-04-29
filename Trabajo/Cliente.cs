@@ -26,7 +26,7 @@ namespace Trabajo
 
         }
 
-        public static void solicitarServicio()
+        public static void SolicitarServicio()
         {
 
         }
