@@ -1,34 +1,45 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Trabajo
 {
     internal class Reserva
     {
-        public int idReserva;
-        public string fechaEntrada;
-        public int numNoches;
-        public bool estado;
-        public List<Servicios> Servicios = new List <Servicios> ();
-        public Habitacion habitacion;
-        public Cliente cliente;
-        
-        
+        public int IdReserva;
+        public string FechaEntrada;
+        public int NumNoches;
+        public bool Estado;
+
+        public List<Servicios> Servicios = new List<Servicios>();
+        public Habitacion Habitacion;
+        public Cliente Cliente;
+
         public double CalcularCosto()
         {
-            if (habitacion == null) return 0;
-            double costoBase = habitacion.precioPorNoche * numNoches;
+            if (Habitacion == null) return 0;
+
+            double costoBase = Habitacion.precioPorNoche * NumNoches;
+
+            double costoServicios = 0;
+            foreach (var servicio in Servicios)
+            {
+                costoServicios += servicio.Precio
+            }
+
+            return costoBase + costoServicios;
         }
 
         public void Cancelar()
         {
-
+            Estado = false;
+            Console.WriteLine("Reserva cancelada");
         }
 
-        public void Modificar()
+        public void Modificar(string nuevaFecha, int nuevasNoches)
         {
-
+            FechaEntrada = nuevaFecha;
+            NumNoches = nuevasNoches;
+            Console.WriteLine("Reserva modificada");
         }
     }
 }
