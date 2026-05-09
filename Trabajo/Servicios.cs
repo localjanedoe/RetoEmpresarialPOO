@@ -6,11 +6,27 @@ namespace Trabajo
 {
     internal class Servicios
     {
-        public string nombre;
-        public double costo;
+        public static List <string> nombreServicio()
+        {
+            return new List<string>
+            {
+                {"Aseo"},
+                {"Spa"},
+                {"Turco"},
+                {"Gimnasio"},
+                {"Parqueadero"}
 
 
+            };
 
+        }
+        public double costo = 35000;
+
+        
+        public static void VerServicios()
+        {
+
+        }
     }
 
 }

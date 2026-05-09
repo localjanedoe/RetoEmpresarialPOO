@@ -6,6 +6,9 @@ namespace Trabajo
 {
     internal class Cliente
     {
+        public Cliente cliente;
+
+
         public static void ConsultarDisponibilidad()
         {
 

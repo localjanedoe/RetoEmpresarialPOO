@@ -23,7 +23,7 @@ namespace Trabajo
             double costoServicios = 0;
             foreach (var servicio in Servicios)
             {
-                costoServicios += servicio.Precio
+                costoServicios += servicio.costo;
             }
 
             return costoBase + costoServicios;

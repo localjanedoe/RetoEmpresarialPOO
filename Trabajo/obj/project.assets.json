@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Trabajo.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Trabajo.csproj",
       "projectName": "Trabajo",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\Trabajo.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Trabajo.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarial\\Trabajo\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
