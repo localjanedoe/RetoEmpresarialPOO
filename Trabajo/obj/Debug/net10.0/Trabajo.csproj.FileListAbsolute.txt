@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\bin\Debug\net10.0\Trabajo.exe
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\bin\Debug\net10.0\Trabajo.deps.json
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\bin\Debug\net10.0\Trabajo.runtimeconfig.json
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\bin\Debug\net10.0\Trabajo.dll
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\bin\Debug\net10.0\Trabajo.pdb
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\obj\Debug\net10.0\Trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\obj\Debug\net10.0\Trabajo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\obj\Debug\net10.0\Trabajo.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\obj\Debug\net10.0\Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\obj\Debug\net10.0\Trabajo.sourcelink.json
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\obj\Debug\net10.0\Trabajo.dll
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\obj\Debug\net10.0\refint\Trabajo.dll
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\obj\Debug\net10.0\Trabajo.pdb
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\obj\Debug\net10.0\Trabajo.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\RetoEmpresarialPOO\Trabajo\obj\Debug\net10.0\ref\Trabajo.dll

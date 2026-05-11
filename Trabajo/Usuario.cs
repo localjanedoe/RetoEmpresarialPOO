@@ -15,6 +15,7 @@ namespace Trabajo
 
             do
             {
+                Console.Clear();
                 // El personal y el admin tienen un código distintivo para poder acceder a sus funciones
                 Console.WriteLine("Bienvenido al sistema.");
                 Console.WriteLine("Seleccione rol: \n1. Cliente \n2. Personal \n3. Administración");

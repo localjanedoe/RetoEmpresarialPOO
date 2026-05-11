@@ -5,7 +5,7 @@ namespace Trabajo
 {
     internal class Reserva
     {
-        public int IdReserva;
+        public int IDReserva;
         public DateTime FechaEntrada;
         public DateTime FechaSalida;
         public int NumNoches;
@@ -14,6 +14,8 @@ namespace Trabajo
         public List<Servicios> Servicios = new List<Servicios>();
         public Habitacion Habitacion;
         
+        
+
 
         public double CalcularCosto()
         {

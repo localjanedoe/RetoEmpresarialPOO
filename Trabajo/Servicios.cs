@@ -10,11 +10,7 @@ namespace Trabajo
         {
             return new List <string>
             {
-                {"Aseo"},
-                {"Spa"},
-                {"Turco"},
-                {"Gimnasio"},
-                {"Parqueadero"}
+                
 
             };
 

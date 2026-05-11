@@ -9,22 +9,21 @@ namespace Trabajo
         public string numero;
         public int tipo;
         public double precioPorNoche;
-        public bool Disponible;
+        public bool disponible;
 
 
         
-        public Habitacion(string numero, int tipo, double precioPorNoche, bool Disponible)
+        public Habitacion(string Numero, int Tipo, double precio, bool Disponible)
         {
-            this.numero = numero; 
-            this.tipo = tipo;
-            this.precioPorNoche = precioPorNoche;
-            this.Disponible = Disponible;
-            
+            Numero = numero;
+            Tipo = tipo;
+            precio = precioPorNoche;
+            Disponible = disponible;
         }
 
         public static void EstaDisponible(bool Disponible)
         {
-            Console.WriteLine();
+            
 
             if (Disponible == true)
             {
