@@ -6,13 +6,14 @@ namespace Trabajo
     internal class Reserva
     {
         public int IdReserva;
-        public string FechaEntrada;
+        public DateTime FechaEntrada;
+        public DateTime FechaSalida;
         public int NumNoches;
         public bool Estado;
 
         public List<Servicios> Servicios = new List<Servicios>();
         public Habitacion Habitacion;
-        public Cliente Cliente;
+        
 
         public double CalcularCosto()
         {
@@ -35,7 +36,7 @@ namespace Trabajo
             Console.WriteLine("Reserva cancelada");
         }
 
-        public void Modificar(string nuevaFecha, int nuevasNoches)
+        public void Modificar(DateTime nuevaFecha, int nuevasNoches)
         {
             FechaEntrada = nuevaFecha;
             NumNoches = nuevasNoches;

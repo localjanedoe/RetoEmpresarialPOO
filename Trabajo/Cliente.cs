@@ -6,22 +6,30 @@ namespace Trabajo
 {
     internal class Cliente
     {
-        public Cliente cliente;
+        public string nombre;
+        public string documento;
+        public List<Reserva> historial;
+        public Cliente(string nombre, string documento)
 
+        {
+            historial = new List<Reserva>();
+        }
+        
 
         public static void ConsultarDisponibilidad()
         {
 
         }
 
-        public static void ConsultarPrecios(double precio)
+        public static void ConsultarPrecios()
         {
 
         }
 
         public static void RealizarReservaWeb()
         {
-
+            
+            Console.WriteLine("En el hotel tenemos tres tipos de habitación");
         }
 
         public static void ConsultarReserva()

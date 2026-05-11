@@ -8,7 +8,7 @@ namespace Trabajo
     {
         public static List <string> nombreServicio()
         {
-            return new List<string>
+            return new List <string>
             {
                 {"Aseo"},
                 {"Spa"},
@@ -16,16 +16,15 @@ namespace Trabajo
                 {"Gimnasio"},
                 {"Parqueadero"}
 
-
             };
 
         }
-        public double costo = 35000;
+        public double costo = 15;
 
         
         public static void VerServicios()
         {
-
+            
         }
     }
 

@@ -8,15 +8,14 @@ namespace Trabajo
     {
 
 
-        public static void ConsultarDisponibilidad(bool j)
+        public static void ConsultarDisponibilidad(bool Disponible)
         {
-
+            
         }
 
         public static void RegistrarReservaPresencial()
         {
-            Console.WriteLine("Ingrese el nombre y el ID del cliente");
-            Cliente cliente = new Cliente();
+            
         }
 
         public static void ModificarHabitacion()

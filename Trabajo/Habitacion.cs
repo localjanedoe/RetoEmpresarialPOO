@@ -7,11 +7,13 @@ namespace Trabajo
     internal class Habitacion
     {
         public string numero;
-        public string tipo;
+        public int tipo;
         public double precioPorNoche;
         public bool Disponible;
 
-        public Habitacion(string numero, string tipo, double precioPorNoche, bool Disponible)
+
+        
+        public Habitacion(string numero, int tipo, double precioPorNoche, bool Disponible)
         {
             this.numero = numero; 
             this.tipo = tipo;
