@@ -7,6 +7,11 @@ namespace Trabajo
     internal class Personal
     {
 
+        public static void MenuPersonal()
+        {
+            Console.WriteLine("¿Qué desea hacer? \n1. Verificar Disponibilidad \n2. Registrar Reserva Presencial \n3. Modificar Habitación \n4. Cancelar Reserva");
+        }
+
 
         public static void ConsultarDisponibilidad(bool Disponible)
         {

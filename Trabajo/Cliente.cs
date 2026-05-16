@@ -15,6 +15,44 @@ namespace Trabajo
             historial = new List<Reserva>();
         }
         
+        public static void MenuClientes()
+        {
+           
+            Console.Clear();
+            Console.WriteLine("Bienvenido a Velisse Hotel");
+            Console.WriteLine("¿Qué desea hacer? \n1. Realizar Reserva Online \n2. Consultar Disponibilidad \n3. Consultar Precios \n4. Consultar Reserva \n5. Cancelar Reserva");
+            int opcion = Int32.Parse(Console.ReadLine());
+            
+            switch(opcion)
+            {
+                case 1:
+                    RealizarReservaWeb();
+                    break;
+
+
+                case 2:
+                    ConsultarDisponibilidad();
+                    break;
+
+                case 3:
+                    ConsultarPrecios();
+                    break;
+
+                case 4:
+                    ConsultarReserva();
+                    break;
+
+                case 5:
+                    Reserva.Cancelar();
+                    break;
+                    
+
+
+            }
+
+
+        }
+
 
         public static void ConsultarDisponibilidad()
         {

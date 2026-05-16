@@ -14,8 +14,6 @@ namespace Trabajo
         public List<Servicios> Servicios = new List<Servicios>();
         public Habitacion Habitacion;
         
-        
-
 
         public double CalcularCosto()
         {
@@ -32,9 +30,9 @@ namespace Trabajo
             return costoBase + costoServicios;
         }
 
-        public void Cancelar()
+        public static void Cancelar()
         {
-            Estado = false;
+            bool Estado = false;
             Console.WriteLine("Reserva cancelada");
         }
 

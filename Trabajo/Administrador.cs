@@ -6,6 +6,13 @@ namespace Trabajo
 {
     internal class Administrador
     {
+
+        public static void MenuAdmin()
+        {
+
+        }
+
+
         public static void ModificarCostoHabitacion()
         {
 

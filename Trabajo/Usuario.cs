@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Text;
 
 namespace Trabajo
@@ -29,7 +30,7 @@ namespace Trabajo
                 switch (rol)
                 {
                     case 1:
-                        Program.InterfazClientes();
+                        Cliente.MenuClientes();
                         break;
 
 
@@ -44,7 +45,7 @@ namespace Trabajo
 
                         if (ID == 0002)
                         {
-                            Program.InterfazPersonal();
+                            Personal.MenuPersonal();
                         }
 
                         else
@@ -66,7 +67,7 @@ namespace Trabajo
 
                         if (ID == 0001)
                         {
-                            Program.InterfazAdmin();
+                            Administrador.MenuAdmin();
                         }
 
                         else

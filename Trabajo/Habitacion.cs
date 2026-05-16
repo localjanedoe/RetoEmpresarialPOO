@@ -23,8 +23,6 @@ namespace Trabajo
 
         public static void EstaDisponible(bool Disponible)
         {
-            
-
             if (Disponible == true)
             {
                 Cliente.RealizarReservaWeb();
