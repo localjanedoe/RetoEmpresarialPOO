@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\",
+  "WorkspaceRootPath": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarialpoo\\trabajo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarialpoo\\trabajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarialpoo\\trabajo\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\walter\\documents\\github\\retoempresarialpoo\\trabajo\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarialpoo\\trabajo\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\walter\\documents\\github\\retoempresarialpoo\\trabajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\walter\\documents\\github\\retoempresarialpoo\\trabajo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\walter\\documents\\github\\retoempresarialpoo\\trabajo\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarialpoo\\trabajo\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\walter\\documents\\github\\retoempresarialpoo\\trabajo\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarialpoo\\trabajo\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\walter\\documents\\github\\retoempresarialpoo\\trabajo\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarialpoo\\trabajo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\walter\\documents\\github\\retoempresarialpoo\\trabajo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\lenovo\\desktop\\retoempresarialpoo\\trabajo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|c:\\users\\walter\\documents\\github\\retoempresarialpoo\\trabajo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,31 +42,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Program.cs",
+              "ToolTip": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T23:33:08.607Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Reserva.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Reserva.cs",
               "RelativeDocumentMoniker": "Reserva.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Reserva.cs",
               "RelativeToolTip": "Reserva.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T23:44:58.11Z",
               "EditorCaption": ""
@@ -75,60 +74,58 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Habitacion.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Habitacion.cs",
+              "DocumentMoniker": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Habitacion.cs",
               "RelativeDocumentMoniker": "Habitacion.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Habitacion.cs",
+              "ToolTip": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Habitacion.cs",
               "RelativeToolTip": "Habitacion.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAqwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T23:34:39.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T23:34:39.201Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Servicios.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Servicios.cs",
               "RelativeDocumentMoniker": "Servicios.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Servicios.cs",
+              "ToolTip": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Servicios.cs",
               "RelativeToolTip": "Servicios.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T23:46:23.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T23:46:23.288Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Personal.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Personal.cs",
+              "DocumentMoniker": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Personal.cs",
               "RelativeDocumentMoniker": "Personal.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Personal.cs",
+              "ToolTip": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Personal.cs",
               "RelativeToolTip": "Personal.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T23:31:29.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T23:31:29.567Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Administrador.cs",
               "RelativeDocumentMoniker": "Administrador.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Administrador.cs",
+              "ToolTip": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Administrador.cs",
               "RelativeToolTip": "Administrador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T23:35:40.924Z"
+              "WhenOpened": "2026-04-16T23:35:40.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Cliente.cs",
               "RelativeDocumentMoniker": "Cliente.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Cliente.cs",
               "RelativeToolTip": "Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,13 +133,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Usuario.cs",
               "RelativeDocumentMoniker": "Usuario.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RetoEmpresarialPOO\\Trabajo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Walter\\Documents\\GitHub\\RetoEmpresarialPOO\\Trabajo\\Usuario.cs",
               "RelativeToolTip": "Usuario.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAC4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T23:33:50.3Z",
               "EditorCaption": ""

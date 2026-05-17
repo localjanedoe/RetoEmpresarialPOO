@@ -1,27 +1,35 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Trabajo
 {
-    internal class Servicios
+    internal class Servicio
     {
-        public static List <string> nombreServicio()
+        public string nombre;
+        public double costo;
+        public string descripcion;
+
+        public Servicio(string nombre, double costo, string descripcion)
         {
-            return new List <string>
-            {
-                
-
-            };
-
+            this.nombre = nombre;
+            this.costo = costo;
+            this.descripcion = descripcion;
         }
-        public double costo = 15;
 
-        
-        public static void VerServicios()
+        public static List<Servicio> Catalogo()
         {
-            
+            return new List<Servicio>
+            {
+                new Servicio("Servicio a la habitacion", 15, "Comida a la habitación"),
+                new Servicio("Limpieza adicional", 10, "Servicio de limpieza extra"),
+                new Servicio("Transporte", 25, "Servicio de traslado desde o hacia el aeropuerto"),
+                new Servicio("Otros", 5, "Servicios adicionales")
+            };
+        }
+
+        public override string ToString()
+        {
+            return $"{nombre} (${costo}) - {descripcion}";
         }
     }
-
 }

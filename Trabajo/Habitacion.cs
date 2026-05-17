@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -7,53 +7,49 @@ namespace Trabajo
     internal class Habitacion
     {
         public string numero;
-        public int tipo;
+        public int tipo;             // 1=Simple, 2=Doble, 3=Matrimonial
         public double precioPorNoche;
         public bool disponible;
 
-
-        
-        public Habitacion(string Numero, int Tipo, double precio, bool Disponible)
+        public Habitacion(string numero, int tipo, double precioPorNoche, bool disponible)
         {
-            Numero = numero;
-            Tipo = tipo;
-            precio = precioPorNoche;
-            Disponible = disponible;
+            this.numero = numero;
+            this.tipo = tipo;
+            this.precioPorNoche = precioPorNoche;
+            this.disponible = disponible;
         }
 
-        public static void EstaDisponible(bool Disponible)
+        public bool EstaDisponible()
         {
-            
+            return disponible;
+        }
 
-            if (Disponible == true)
+        public void ActualizarEstado(bool nuevoEstado)
+        {
+            disponible = nuevoEstado;
+        }
+
+        public double CalcularCostoNoches(int noches)
+        {
+            return precioPorNoche * noches;
+        }
+
+        public string VerDescripcion()
+        {
+            string nombreTipo = tipo switch
             {
-                Cliente.RealizarReservaWeb();
-            }
-            else
-            {
-                Console.WriteLine("La habitación se encuentra ocupada.");
-                Console.ReadKey();
-            }
+                1 => "Simple",
+                2 => "Doble",
+                3 => "Matrimonial",
+                _ => "Desconocido"
+            };
+            return $"Habitación {numero} - Tipo: {nombreTipo} - Precio/noche: ${precioPorNoche} - " +
+                   (disponible ? "Disponible" : "Ocupada");
         }
 
-        public static void ActualizarEstado()
+        public void ActualizarPrecio(double nuevoPrecio)
         {
-
-        }
-
-        public void CalcularCosto(double precio)
-        {
-            
-        }
-
-        public static void VerDescripcion(string descripcion)
-        {
-
-        }
-
-        public static void ActualizarPrecio()
-        {
-
+            precioPorNoche = nuevoPrecio;
         }
     }
 }
