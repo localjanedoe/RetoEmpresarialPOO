@@ -3,8 +3,6 @@ using System.Collections.Generic;
 
 namespace Trabajo
 {
-    // Esqueleto. La implementación completa de búsqueda con cruce de fechas
-    // corresponde al Programador 1 (Emmanuel).
     internal class GestorHabitaciones
     {
         private List<Habitacion> habitaciones = new List<Habitacion>();
