@@ -3,8 +3,6 @@ using System.Collections.Generic;
 
 namespace Trabajo
 {
-    // Esqueleto. La creación con validación de cruce de fechas y el cambio
-    // de habitación con historial corresponden al Programador 2.
     internal class GestorReservas
     {
         private List<Reserva> reservas = new List<Reserva>();
