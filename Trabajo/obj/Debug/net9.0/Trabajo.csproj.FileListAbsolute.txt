@@ -1,0 +1,15 @@
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\obj\Debug\net9.0\Trabajo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\obj\Debug\net9.0\Trabajo.AssemblyInfoInputs.cache
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\obj\Debug\net9.0\Trabajo.AssemblyInfo.cs
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\obj\Debug\net9.0\Trabajo.csproj.CoreCompileInputs.cache
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\obj\Debug\net9.0\Trabajo.sourcelink.json
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\bin\Debug\net9.0\Trabajo.exe
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\bin\Debug\net9.0\Trabajo.deps.json
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\bin\Debug\net9.0\Trabajo.runtimeconfig.json
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\bin\Debug\net9.0\Trabajo.dll
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\bin\Debug\net9.0\Trabajo.pdb
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\obj\Debug\net9.0\Trabajo.dll
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\obj\Debug\net9.0\refint\Trabajo.dll
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\obj\Debug\net9.0\Trabajo.pdb
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\obj\Debug\net9.0\Trabajo.genruntimeconfig.cache
+D:\Univercidad disco D\Programacion\RetoEmpresarialPOO\Trabajo\obj\Debug\net9.0\ref\Trabajo.dll

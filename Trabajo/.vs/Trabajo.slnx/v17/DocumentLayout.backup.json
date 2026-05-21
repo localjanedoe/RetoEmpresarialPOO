@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\promocion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:promocion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\gestorreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:gestorreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\gestorreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:gestorreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\gestorhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:gestorhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|d:\\univercidad disco d\\programacion\\retoempresarialpoo\\trabajo\\gestorclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1279A505-2491-713E-99B6-1E55E2C13218}|Trabajo.csproj|solutionrelative:gestorclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Reserva.cs",
+              "RelativeDocumentMoniker": "Reserva.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Reserva.cs",
+              "RelativeToolTip": "Reserva.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:46:32.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Promocion.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Promocion.cs",
+              "RelativeDocumentMoniker": "Promocion.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Promocion.cs",
+              "RelativeToolTip": "Promocion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:46:23.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Hotel.cs",
+              "RelativeDocumentMoniker": "Hotel.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Hotel.cs",
+              "RelativeToolTip": "Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:45:58.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestorReservas.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\GestorReservas.cs",
+              "RelativeDocumentMoniker": "GestorReservas.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\GestorReservas.cs",
+              "RelativeToolTip": "GestorReservas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:44:47.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestorReportes.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\GestorReportes.cs",
+              "RelativeDocumentMoniker": "GestorReportes.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\GestorReportes.cs",
+              "RelativeToolTip": "GestorReportes.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:44:36.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GestorHabitaciones.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\GestorHabitaciones.cs",
+              "RelativeDocumentMoniker": "GestorHabitaciones.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\GestorHabitaciones.cs",
+              "RelativeToolTip": "GestorHabitaciones.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:44:30.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Habitacion.cs",
+              "RelativeDocumentMoniker": "Habitacion.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Habitacion.cs",
+              "RelativeToolTip": "Habitacion.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:42:55.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAcwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:35:50.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personal.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Personal.cs",
+              "RelativeDocumentMoniker": "Personal.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Personal.cs",
+              "RelativeToolTip": "Personal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:35:04.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Administrador.cs",
+              "RelativeDocumentMoniker": "Administrador.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Administrador.cs",
+              "RelativeToolTip": "Administrador.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAWwLQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:43:59.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAWwH4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:44:07.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Servicios.cs",
+              "RelativeDocumentMoniker": "Servicios.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\Servicios.cs",
+              "RelativeToolTip": "Servicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:46:42.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GestorClientes.cs",
+              "DocumentMoniker": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\GestorClientes.cs",
+              "RelativeDocumentMoniker": "GestorClientes.cs",
+              "ToolTip": "D:\\Univercidad disco D\\Programacion\\RetoEmpresarialPOO\\Trabajo\\GestorClientes.cs",
+              "RelativeToolTip": "GestorClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:44:20.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
